@@ -10,6 +10,8 @@ You can create folders in `work/` folder and `.md` files and whatever you want.
 
 You MUST use JavaScript. Use `bun` to run all your code. You MUST not run bash commands.
 
+The outputs of JavaScript code that you run should also be saved to `work/` so I recommend putting input and output for each JavaScript code you run into separate files in the `work/` folder.
+
 IMPORTANT: document EVERYTHING in the `work/` folder.
 
 There is also some hints and explanation in `task/explanation-and-hints.md` file, please read it too.
