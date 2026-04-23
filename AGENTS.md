@@ -12,6 +12,8 @@ You MUST use JavaScript. Use `bun` to run all your code. You MUST not run bash c
 
 The outputs of JavaScript code that you run should also be saved to `work/` so I recommend putting input and output for each JavaScript code you run into separate files in the `work/` folder.
 
+Put all your code in `work/attempt-2/` and instead of using `console.log` output to a file. You can create nested folders in `work/attempt-2/`
+
 IMPORTANT: document EVERYTHING in the `work/` folder.
 
 There is also some hints and explanation in `task/explanation-and-hints.md` file, please read it too.
